@@ -421,7 +421,7 @@ h1 {
 
 .LLL {
     position: absolute;
-    left: 100px;
+    left: 500px;
 }
 
 @media screen and (max-width: 380px) {
