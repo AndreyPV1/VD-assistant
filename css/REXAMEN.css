@@ -39,8 +39,9 @@ body {
 
 .KNK {
     position: absolute;
-    left: 500px;
-    top: 230px;
+    left: 450px;
+    top: 260px;
+    text-decoration: none;
 }
 
 .TIT {
