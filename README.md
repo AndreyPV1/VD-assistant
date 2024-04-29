@@ -8,7 +8,7 @@
 <body>
 
     <nav class="KNK">
-        <a href="REXAMEN.html" class="UD u1">Продовжити</a>
+        <a href="REXAMEN.html" class="URT c1">Продовжити</a>
     </nav>
     
 </body>
