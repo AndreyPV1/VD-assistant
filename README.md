@@ -7,7 +7,7 @@
 <body>
   
     <nav>
-      <a href="REXAMEN.html">Продовжити</a>
+      <a class="LLL" href="REXAMEN.html">Продовжити</a>
     </nav>
 
 </body>
