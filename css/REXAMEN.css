@@ -19,7 +19,7 @@ body {
     transform: translate(1310px, -53px);
 }
 
-    .UD {
+.URY {
     width: 140px;
     height: 65px;
     border-radius: 9px;
@@ -37,16 +37,9 @@ body {
     padding: 15px;
 }
 
-.u1:hover {
-    color: rgb(0, 0, 0);
-    background-color: #d7d7d7;
-    font-size: 65px;
-    transition: 1.3s;
-}
-
 .KNK {
     position: absolute;
-    left: 400px;
+    left: 500px;
     top: 230px;
 }
 
