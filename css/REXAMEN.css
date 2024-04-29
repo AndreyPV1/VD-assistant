@@ -419,6 +419,11 @@ h1 {
 
 }
 
+.LLL {
+    position: absolute;
+    left: 100px;
+}
+
 @media screen and (max-width: 380px) {
     body {
         margin: 0;
